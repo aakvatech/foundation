@@ -12,7 +12,7 @@ To make a Stock Entry you have to go to:
 
 Stock Entries can be made for the following purposes:
 
-* Material Issue - If the material is being issued. (Outgoing Material)
+* Material Issue - If the material is being issued/consumed. (Outgoing/Consuming Material)
 * Material Receipt - If the material is being received. (Incoming Material)
 * Material Transfer - If the material is being moved from one warehouse to another.
 * Material Transfer for Manufacturing - If the material being transfered is for Manufacturing Process.
